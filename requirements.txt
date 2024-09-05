@@ -1,3 +1,7 @@
 pyspark==3.5.1
 jupyterlab==4.3.0b1
 bayesian-optimization==1.5.1
+pycodestyle==2.12.1
+pycodestyle_magic==0.5
+flake8==7.1.1
+pandas==2.2.2
