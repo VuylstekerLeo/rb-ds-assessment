@@ -1,5 +1,5 @@
 pyspark==3.5.1
-jupyterlab==4.3.0b1
+jupyter==1.1.1
 bayesian-optimization==1.5.1
 pycodestyle==2.12.1
 pycodestyle_magic==0.5
@@ -8,3 +8,6 @@ pandas==2.2.2
 torch==2.4.1
 matplotlib==3.9.2
 seaborn==0.13.2
+scipy==1.14.1
+pyarrow==17.0.0
+plotly==5.18.0
